@@ -1,0 +1,9 @@
+{
+  "name": "Delphi Nullable",
+  "description": "A lightweight Delphi library providing generic nullable types with implicit conversions, default values, and database field helpers that preserve SQL NULL values.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/semahr/delphi-nullable",
+  "mainsrc": "./Source",
+  "projects": [],
+  "dependencies": {}
+}
