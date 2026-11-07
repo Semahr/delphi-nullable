@@ -1,4 +1,4 @@
-# op-nullable
+# delphi-nullable
 
 A lightweight Delphi library providing generic nullable types with implicit conversions, default values, and database field helpers that preserve SQL NULL values.
 
